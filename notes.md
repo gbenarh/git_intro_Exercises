@@ -8,3 +8,7 @@ git status
 git commit -m "Initial assignment commit"
 git push
 git push --set-upstream origin master
+git status
+git add .
+git commit -m "note file added"
+git push
